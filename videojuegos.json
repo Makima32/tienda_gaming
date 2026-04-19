@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "titulo": "Overwatch",
+    "genero": "Hero Shooter",
+    "precio": 0.0,
+    "pegi": "PEGI_12",
+    "stock": 500,
+    "oferta": 0
+  },
+  {
+    "id": 2,
+    "titulo": "Expedition 33",
+    "genero": "RPG por turnos",
+    "precio": 59.99,
+    "pegi": "PEGI_16",
+    "stock": 50,
+    "oferta": 0
+  },
+  {
+    "id": 3,
+    "titulo": "League of Legends",
+    "genero": "MOBA",
+    "precio": 0.0,
+    "pegi": "PEGI_12",
+    "stock": 999,
+    "oferta": 0
+  },
+  {
+    "id": 4,
+    "titulo": "Code Vein",
+    "genero": "Soulslike Anime",
+    "precio": 29.99,
+    "pegi": "PEGI_16",
+    "stock": 30,
+    "oferta": 50
+  },
+  {
+    "id": 5,
+    "titulo": "Code Vein 2",
+    "genero": "Soulslike Anime",
+    "precio": 69.99,
+    "pegi": "PEGI_16",
+    "stock": 100,
+    "oferta": 0
+  },
+  {
+    "id": 6,
+    "titulo": "Zelda Tears of the Kingdom",
+    "genero": "Aventura",
+    "precio": 69.99,
+    "pegi": "PEGI_12",
+    "stock": 200,
+    "oferta": 0
+  },
+  {
+    "id": 7,
+    "titulo": "Honkai Star Rail",
+    "genero": "RPG por turnos Gacha",
+    "precio": 0.0,
+    "pegi": "PEGI_12",
+    "stock": 1000,
+    "oferta": 10
+  }
+]
